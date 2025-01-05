@@ -1,0 +1,27 @@
+[
+      {
+        "tag": "greeting",
+        "patterns": [
+            "Hi",
+            "Hello",
+            "Hey",
+            "How are you",
+            "What's up"
+        ],
+        "responses": [
+            "i am sorry salvi insta pr itna bhasan likhne ke liye hum achhe dost hai or achhe dost he rahenge lekin ye baat krna band na kro   "
+        ]
+    },
+    {
+        "tag": "goodbye",
+        "patterns": [
+            "Bye",
+            "See you later",
+            "Goodbye",
+            "Take care"
+        ],
+        "responses": [
+             "i am sorry salvi insta pr itna bhasan likhne ke liye hum achhe dost hai or achhe dost he rahenge lekin ye baat krna band na kro  "
+        ]
+    }
+]
